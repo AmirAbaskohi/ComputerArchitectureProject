@@ -7,3 +7,6 @@
 [submodule "MultiCycleMIPS"]
 	path = MultiCycleMIPS
 	url = https://github.com/AmirAbaskohi/MultiCycleMIPS
+[submodule "BoothMultiplierInVerilog6bit"]
+	path = BoothMultiplierInVerilog6bit
+	url = https://github.com/AmirAbaskohi/BoothMultiplierInVerilog6bit
