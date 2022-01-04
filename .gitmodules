@@ -10,3 +10,6 @@
 [submodule "BoothMultiplierInVerilog6bit"]
 	path = BoothMultiplierInVerilog6bit
 	url = https://github.com/AmirAbaskohi/BoothMultiplierInVerilog6bit
+[submodule "Cache-implementation-verilog"]
+	path = Cache-implementation-verilog
+	url = https://github.com/AmirAbaskohi/Cache-implementation-verilog
