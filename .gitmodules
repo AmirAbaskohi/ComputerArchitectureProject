@@ -4,3 +4,6 @@
 [submodule "SingleCycleMIPS"]
 	path = SingleCycleMIPS
 	url = https://github.com/AmirAbaskohi/SingleCycleMIPS
+[submodule "MultiCycleMIPS"]
+	path = MultiCycleMIPS
+	url = https://github.com/AmirAbaskohi/MultiCycleMIPS
