@@ -1,0 +1,3 @@
+[submodule "Pipeline-MIPS-using-verilog"]
+	path = Pipeline-MIPS-using-verilog
+	url = https://github.com/AmirAbaskohi/Pipeline-MIPS-using-verilog
